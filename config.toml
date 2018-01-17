@@ -65,13 +65,13 @@ googleAnalytics = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Leadership Board"
-      url = "blogs"
+      name = "ΜΑΘ Resources"
+      url = "mualphatheta"
 
     # Button Style 2
     [[params.navigation.button2]]
       name = "Applying for Membership"
-      url = "#"
+      url = "membership"
 
 
   # Banner section
@@ -97,7 +97,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "Mu Alpha Theta"
-      subtitle = "Applications and Leadership Board"
+      subtitle = "Resources and Leadership Board"
       image = "pic02.jpg"
       url = "mualphatheta"
 

@@ -1,6 +1,15 @@
 #!/bin/bash
 
+echo -e "\033[0;32mPushing source changes...\033[0m"
+git add --all
+git commit -m "Updating website on `date`"
+git push origin master
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+# First make sure we are in dev mode
+cd public
+git checkout master
+cd ..
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
