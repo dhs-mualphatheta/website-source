@@ -1,10 +1,5 @@
 #!/bin/bash
 
-echo -e "\033[0;32mPushing source changes...\033[0m"
-git add --all
-git commit --allow-empty -m "Updating website on `date`"
-git push origin master
-
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # First make sure we are in dev mode
 cd public
@@ -31,3 +26,8 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+echo -e "\033[0;32mPushing source changes...\033[0m"
+git add --all
+git commit --allow-empty -m "Updating website on `date`"
+git push origin master
