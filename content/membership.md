@@ -10,5 +10,3 @@ draft: false
 ---
 
 People should be in Mu Alpha Theta as soon as possible
-
-Go to Mr. Buchta if you have questions.
