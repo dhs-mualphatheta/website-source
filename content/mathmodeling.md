@@ -22,3 +22,10 @@ http://www.comap.com/highschool/contests/himcm/index.html
 http://aocmm.org/
 
 https://m3challenge.siam.org/
+
+# Leadership Board for 2017-18:
+President: Daniel Pfrommer
+
+Vice President: Paul Hager
+
+Secretary: Matthew Shabet
