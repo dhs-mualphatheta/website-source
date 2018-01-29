@@ -18,5 +18,7 @@ Our meetings generally consist of learning basic skills relevant to math modelin
 
 # Links to the competitions we compete in:
 http://www.comap.com/highschool/contests/himcm/index.html
+
 http://aocmm.org/
+
 https://m3challenge.siam.org/
