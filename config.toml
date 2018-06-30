@@ -16,8 +16,8 @@ googleAnalytics = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = ""
+  description = ""
 
   # Link custom assets relative to /static
   custom_css = []
@@ -45,27 +45,15 @@ googleAnalytics = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
+      name = "Math Modeling Club"
+      url = "mathmodeling"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "Math Team"
+      url = "mathteam"
 
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
-
-    # Add custom links here by uncommenting code below. To remove links just delete
-    # the [[params.navigation.links]] map associated with that link. Copy and paste
-    # code below if you need more links. Buttons work in the same way.
-    # [[params.navigation.links]]
-    #    name = "NameOfLink"
-    #    url = "UrlOfLink"
-
-    # Button Style 1
     [[params.navigation.button1]]
-      name = "ΜΑΘ Resources"
+      name = "ΜΑΘ Resources and Leadership"
       url = "mualphatheta"
 
     # Button Style 2
@@ -92,37 +80,37 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "ΜΑΘ Membership Guidelines"
       subtitle = "and Meeting expectations"
-      image = "pic01.jpg"
+      image = "membership.jpg"
       url = "membership"
 
     [[params.tiles.showcase]]
       title = "Mu Alpha Theta"
       subtitle = "Resources and Leadership Board"
-      image = "pic02.jpg"
+      image = "mat.jpg"
       url = "mualphatheta"
 
     [[params.tiles.showcase]]
       title = "Math Modeling Club"
       subtitle = "And upcoming modeling competitions"
-      image = "pic03.jpg"
+      image = "mmc.jpg"
       url = "mathmodeling"
 
     [[params.tiles.showcase]]
       title = "AMC Information"
       subtitle = "Practice materials and more"
-      image = "pic04.jpg"
+      image = "maa.jpg"
       url = "amc"
 
     [[params.tiles.showcase]]
-      title = "PI Day 2018"
+      title = "PI Day 2019"
       subtitle = "Event Information"
-      image = "pic05.jpg"
-      url = "piday2018"
+      image = "piday.jpg"
+      url = "piday"
 
     [[params.tiles.showcase]]
       title = "Math Team"
       subtitle = "Part of the Fairfield County Math League"
-      image = "pic06.jpg"
+      image = "mathteam.jpg"
       url = "mathteam"
     # You can make more showcases by copy and pasting the code above
 
@@ -137,14 +125,10 @@ googleAnalytics = ""
   [params.two]
     enable = true
     title = "Applications"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    subtitle = """The 2018-2019 Application for the DHS Mu Alpha Theta Chapter will be out at the start of next year.
+    In the meantime, please click on the link to see last year's application and review the membership requirements."""
     buttonText = "Application Info"
     url = "applications"
-
 
   # Contact section
   [params.contact]
@@ -171,10 +155,6 @@ googleAnalytics = ""
     [[params.contact.email]]
     title = "Email"
     email = "mualphatheta@darienps.org"
-
-    [[params.contact.phone]]
-    title = "Phone"
-    phone = "Please use email"
 
     [[params.contact.address]]
     title = "Darien High School"
