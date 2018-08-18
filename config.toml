@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://dhs-mualphatheta.github.io/"
+baseURL = "https://dhsmat.tk/"
 languageCode = "en-us"
 title = "Darien Mu Alpha Theta"
 theme = "forty"
