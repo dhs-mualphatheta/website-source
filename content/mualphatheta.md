@@ -34,3 +34,13 @@ Treasurer: Aram Russell
 Secretary: Abigail Cragin
 
 Historian/Public Relations Officer: Griffin Ott
+
+
+# Board for 2016-2017
+President: Mila Escajadillo
+
+Vice President: Andrew Benz
+
+Treasurer: Brendan Berrigan
+
+Secretary: Komal Dhull
