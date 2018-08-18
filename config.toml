@@ -53,7 +53,7 @@ googleAnalytics = ""
       url = "mathteam"
 
     [[params.navigation.button1]]
-      name = "ΜΑΘ Resources and Leadership"
+      name = "ΜΑΘ Resources/Leadership"
       url = "mualphatheta"
 
     # Button Style 2

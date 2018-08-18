@@ -1,5 +1,5 @@
 ---
-title: "Mu Alpha Theta Leadership"
+title: "Mu Alpha Theta"
 description: ""
 keywords: ""
 categories: 
@@ -8,6 +8,12 @@ categories:
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
+
+The goal of the Darien Mu Alpha Theta Chapter is to promote interest for more advanced and abstract mathematics in the DHS Community and provide a platform for talented math students to showcase their abilities in various competitions thoughout the year.
+
+Membership in Mu Alpha Theta is by application. For more information about membership in Mu Alpha Theta please see the [membership guidelines](/membership/) and [application information](/applications/)
+
+We organize DHS's participation in the [Log(1) competition](http://log1.wamath.net/), the [AMC](https://www.maa.org/math-competitions/amc-1012), and the yearly [pi-day activities](/piday/)
 
 # Current Leadership Board
 President: Aram Russel

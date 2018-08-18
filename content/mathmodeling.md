@@ -16,6 +16,14 @@ These competitions are optional, but you are encouraged to join the club with th
 
 Our meetings generally consist of learning basic skills relevant to math modeling.  
 
+## Leadership Board for 2018-2019
+
+President: Julia Pfrommer
+
+Vice-President: Will Harmon
+
+Secretary: Matthew Daileader
+
 # Links to the competitions we compete in:
 http://www.comap.com/highschool/contests/himcm/index.html
 

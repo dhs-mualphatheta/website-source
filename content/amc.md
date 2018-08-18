@@ -9,7 +9,7 @@ date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
 
- # 2018 Date: 
+# 2018 Date: 
 February 7th (Wednesday-A Day) during periods 2 and 3 (first two time slots)
 
 # Links for Practice:

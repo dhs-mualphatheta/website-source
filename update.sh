@@ -4,6 +4,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # First make sure we are in dev mode
 cd public
 git checkout master
+rm -rf *
 cd ..
 
 # Build the project.
