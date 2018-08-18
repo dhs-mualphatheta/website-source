@@ -12,6 +12,7 @@ draft: false
 # 2018 Date: 
 February 7th (Wednesday-A Day) during periods 2 and 3 (first two time slots)
 
+
 # Links for Practice:
 Past Problems for AMC 12: http://artofproblemsolving.com/wiki/index.php?title=AMC_12_Problems_and_Solutions
 
