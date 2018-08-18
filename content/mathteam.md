@@ -17,11 +17,13 @@ once every month.
 # Leadership
 
 Current Captain: Eleanor Chase
+
 Vice-Captain: Alee Raparti
 
 # 2017-2018 Leadership
 
 Captain: Sam Scott
+
 Vice-Captain: Matthew Shabet
 
 # 2016-2017 Leadership
