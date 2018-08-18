@@ -14,19 +14,19 @@ draft: false
 The DHS Math Team is a member of the Fairfield County Math League.  We hold weekly practices and compete in a county-wide competition 
 once every month.  
 
-# Leadership
+## Leadership
 
 Current Captain: Eleanor Chase
 
 Vice-Captain: Alee Raparti
 
-# 2017-2018 Leadership
+## 2017-2018 Leadership
 
 Captain: Sam Scott
 
 Vice-Captain: Matthew Shabet
 
-# 2016-2017 Leadership
+## 2016-2017 Leadership
 
 Captain: Andrew Benz
 
