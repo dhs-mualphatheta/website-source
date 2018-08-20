@@ -14,14 +14,14 @@ February 7th (Wednesday-A Day) during periods 2 and 3 (first two time slots)
 
 # Top Scores 2017
 ## AMC 12
-1) Matt Shabet
-2) Aram Russell
-3) Daniel Pfrommer
+1. Matt Shabet
+2. Aram Russell
+3. Daniel Pfrommer
 
 ## AMC 10
-1) Vincent Xu
-2) Jacob Grimm and 
-3) Calvin Smith
+1. Vincent Xu
+2. Jacob Grimm and 
+3. Calvin Smith
 
 
 # Links for Practice:
